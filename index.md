@@ -4,11 +4,12 @@ layout: default
 
 ## Introduction
 
-<img src="assets/images/me.jpg" alt="Photo" hspace="20" width="30%" align="right"/> Lorem ipsum dolor sit amet, consectetur adipisci elit, sed eiusmod tempor incidunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquid ex ea commodi consequat. Quis aute iure reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint obcaecat cupiditat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+<img src="" alt="Photo" hspace="20" width="30%" align="right"/> A master's student of University of Helsinki. I graduated as Bachelor of Arts in November 2019 having my major in Portuguese Philology. As minors I have studied Spanish Philology and Computer Science. Now focusing on Language Technology.
+
 
 ## Find me on
 
-[LinkedIn](https://fi.linkedin.com/mouse-mousekewitz), [GitHub](https://github.com/mokewitz)
+[Instagram](https://www.instagram.com/jonsqui/?hl=fi), [GitHub](https://github.com/J0nna)
 
 ## Contact
 
@@ -16,12 +17,20 @@ My email address is of the form first_name.last_name@helsinki.fi.
 
 ## Courses I've Taken
 
-[Enjoying Cheese I](https://courses.helsinki.fi/enjoying-cheese-I), fall 2018
+[Introduction to Language Technology](https://courses.helsinki.fi/fi/kik-405/130355898), fall 2018
 
-[Feline Avoidance](https://courses.helsinki.fi/feline-avoidance), fall 2018
+[Korpuslingvistiikka ja tilastolliset menetelmät](https://courses.helsinki.fi/fi/kik-404/130365670), fall 2018
+
+[Programming for Linguists](https://courses.helsinki.fi/fi/kik-lg208/130394640), spring 2019
+
+[Commandline Tools for Linguists](https://courses.helsinki.fi/fi/kik-lg219/129824412), fall 2019
 
 ## Projects
 
+[My first project on Github](https://github.com/J0nna/cmdline-course)
+
+This project was part of the course "Command line tools for linguists". It's about learning to use Github and understanding the importance of version control.
+
 ## Misc. 
 
-[Gotta Love Cheese](https://en.wikipedia.org/wiki/Cheese) 
+[Joku kiva linkki]() 
