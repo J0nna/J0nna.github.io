@@ -4,7 +4,7 @@ layout: default
 
 ## Introduction
 
-<img src="" alt="Photo" hspace="20" width="30%" align="right"/> A master's student of University of Helsinki. I graduated as Bachelor of Arts in November 2019 having my major in Portuguese Philology. As minors I have studied Spanish Philology and Computer Science. Now focusing on Language Technology.
+<img src="assets/images/thisisme.jpg" alt="Photo" hspace="20" width="30%" align="right"/> I am a master's student of University of Helsinki. I graduated as Bachelor of Arts in November 2019 having my major in Portuguese Philology. As minors I have studied Spanish Philology and Computer Science. Now focusing on Language Technology.
 
 
 ## Find me on
@@ -33,4 +33,4 @@ This project was part of the course "Command line tools for linguists". It's abo
 
 ## Misc. 
 
-[Joku kiva linkki]() 
+If you are visiting Helsinki, the best views are from [Sky Room](https://www.nordicchoicehotels.com/hotels/finland/helsinki/clarion-hotel-helsinki/our-facilities/sky-room/). Enjoy! 
