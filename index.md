@@ -31,6 +31,10 @@ My email address is of the form first_name.last_name@helsinki.fi.
 
 This project was part of the course "Command line tools for linguists". It's about learning to use Github and understanding the importance of version control.
 
+## CV
+
+Find my CV [here](https://www.overleaf.com/read/fbhddbnxcmkz).
+
 ## Misc. 
 
 If you are visiting Helsinki, the best views are from [Sky Room](https://www.nordicchoicehotels.com/hotels/finland/helsinki/clarion-hotel-helsinki/our-facilities/sky-room/). Enjoy! 
