@@ -23,7 +23,16 @@ According to the course description on [WebOodi](https://weboodi.helsinki.fi/hy/
 
 ##### Introduction to Command Line Environments
 
-The first week of the course was about a brief theoretical introduction to command line, computer architecture and operating systems, setting up the command line environments on students' personal computers and learning the first basic commands. 
+The first week of the course was about a brief theoretical introduction to command line, computer architecture and operating systems, setting up the command line environments on students' personal computers and learning the first basic commands.
+
+The most used basic commands I learned during the first week:
+
+| Command  | Function                      |
+| -------- |:-----------------------------:|
+| cd       | changes directory             |
+| ls       | lists contents of a directory |
+| less     | views a file                  |
+| emacs    | opens emacs                   |
 
 #### Week 2
 
@@ -71,3 +80,4 @@ During the 7th week we set up Github accounts and learned a lot about the vesion
 
 For the final assignment of this course we created these websites by using Git.
 
+The most used command during the final assignment project was `bundle exec jekyll serve`.
